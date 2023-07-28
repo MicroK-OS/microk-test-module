@@ -1,7 +1,7 @@
 include ../../Makefile.inc
 
 MODDIR = .
-MODNAME = modname
+MODNAME = cafebabe-7e37c0de-test-module
 
 COMMON_CFLAGS = -ffreestanding             \
 	 -fno-stack-protector          \
